@@ -13,9 +13,9 @@ import Login from "./pages/Login";
 import NewUsers from "./pages/Users";
 import Settings from "./pages/Settings";
 import Cabins from "./pages/Cabins";
+import Checkin from "./pages/Checkin";
 import PageNotFound from "./pages/PageNotFound";
 import Booking from "./pages/Booking";
-import Checkin from "./pages/CheckIn";
 import ProtectedRoute from "./ui/ProtectedRoute";
 import { DarkModeProvider } from "./context/DarkModeContext";
 
