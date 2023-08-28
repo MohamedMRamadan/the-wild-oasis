@@ -1,4 +1,10 @@
 ## The Wild Oasis
 
-Main project in jonas's ultimate react course.
+The main project in Jonas's ultimate react course.
 Built with React Query and Supabase.
+
+
+
+
+
+
